@@ -1,8 +1,8 @@
 name: widget_collapser
 description: A Flutter package that collapses toolbar children into an overflow widget as space shrinks.
 version: 0.0.1
-repository: https://github.com/patrick/widget_collapser
-homepage: https://github.com/patrick/widget_collapser
+repository: https://github.com/barneysspeedshop/widget_collapser
+homepage: https://github.com/barneysspeedshop/widget_collapser
 license: MIT
 
 environment:
