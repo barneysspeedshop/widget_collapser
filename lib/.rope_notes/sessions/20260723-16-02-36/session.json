@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "savedAt": "2026-07-23T16:02:36.205034Z",
+  "startedAt": "2026-07-23T16:02:36.166344Z",
+  "turns": [
+    {
+      "role": "agent",
+      "text": "Created a default agent permissions file at `.rope_notes/permissions.toml`. Edit it to restrict which paths the agent can read or write.",
+      "estimatedTokens": 34
+    },
+    {
+      "role": "agent",
+      "text": "Created a default agent permissions file at `.rope_notes/permissions.toml`. Edit it to restrict which paths the agent can read or write.",
+      "estimatedTokens": 34
+    }
+  ],
+  "contextPaths": [
+    "/home/patrick/IdeaProjects/widget_collapser/lib/widget_collapser.dart"
+  ],
+  "includedContextPaths": [
+    "/home/patrick/IdeaProjects/widget_collapser/lib/widget_collapser.dart"
+  ],
+  "replMode": "chat"
+}
